@@ -1,1 +1,11 @@
+#step 1 use input to get users name
+#step 2 print users name
+#step 3 use inout to get users age
+#step 4 print users age
+#step 5 print "Hello World!" on a new line
 
+name = input("Hello please enter your name: ")
+print("your name is:", name)
+age = input("What is your age: ")
+print("your age is:", age)
+print("Hello World!")
